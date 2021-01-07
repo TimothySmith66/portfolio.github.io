@@ -1,10 +1,18 @@
-.row{float: left;
-margin-bottom: 20px;}
-.h1{ color: green;}
-.row{margin: 50px }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+      color: white;
+    text-align: center;
+       }
 
-    }
+#imager{ 
+    float:left;
+    margin-right: 10px;
+    border:solid;
+    border-color: black;
+
 }
-
-
-}
+     
